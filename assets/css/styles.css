@@ -60,6 +60,7 @@ body {
   color: hsl(0, 0%, 50%);
   font-weight: 600;
   font-size: 1.6rem;
+  line-height: 2.5rem;
 }
 .preview__card--author {
   display: flex;
